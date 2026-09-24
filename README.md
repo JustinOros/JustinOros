@@ -10,13 +10,7 @@
 
 ### 🚀 About Me
 
-I make computers do things their developers never intended.  
-SysAdmin / DevOps tinkerer focused on automation, reverse engineering, game mods, and adding functionality to systems that don’t officially support it.  
-If it has an API, config file, undocumented feature, or weird workaround… I’m probably going to mess with it. 😈
-
-🔭 &nbsp;I'm currently working on **Automation projects, home-lab infrastructure, and finding ways to make hardware and software do things they weren’t originally designed to do.**  
-🌱 &nbsp;I'm currently learning **More Python, Linux, Docker, APIs, and whatever interesting problem I happen to fall into next.**  
-⚡ &nbsp;Fun fact: **A family friend gave me my first i286 PC before the Internet was really a thing, and I’ve been breaking, fixing, and modifying computers ever since.**
+SysAdmin / DevOps tinkerer focused on automation, reverse engineering, game mods, and adding functionality to systems that don’t officially support it.  If it has an API, config file, undocumented feature, or weird workaround… I’m probably going to mess with it. 😈
 
 ### 🔗 Connect With Me
 
