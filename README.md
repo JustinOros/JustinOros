@@ -31,7 +31,7 @@ SysAdmin / DevOps tinkerer focused on automation, reverse engineering, game mods
 ### 🔥 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/justinoros/claude-meter"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=justinoros&repo=claude-meter&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="claude-meter" /></a>
+  <a href="https://github.com/justinoros/claude-meter"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=justinoros&repo=claude-meter&v=2&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="claude-meter" /></a>
   <a href="https://github.com/justinoros/got-fiber"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=justinoros&repo=got-fiber&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="got-fiber" /></a>
   <a href="https://github.com/justinoros/sotf-modloader"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=justinoros&repo=sotf-modloader&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="sotf-modloader" /></a>
   <a href="https://github.com/justinoros/chrome-adblock"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=justinoros&repo=chrome-adblock&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="chrome-adblock" /></a>
